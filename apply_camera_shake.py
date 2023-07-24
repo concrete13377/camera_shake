@@ -24,7 +24,7 @@ def parse():
     parser.add_argument("--inpaint_height", type=int, default=64)
     parser.add_argument("--scale", type=int)
     parser.add_argument("--copymoves", action="store_true")
-    parser.add_argument("--maxframe", type=int, default=20)
+    parser.add_argument("--maxframes", type=int, default=20)
     args = parser.parse_args()
     return args
 
