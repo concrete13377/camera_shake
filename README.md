@@ -6,3 +6,5 @@ usage:
 
 2) use bordercopy, copymoves, no inpainting  
    ```python apply_camera_shake.py --input_video /mnt/f/works/test_task_videos/01.mp4 --output_video /mnt/f/works/test.mp4 --scale 2 --copymoves```
+
+more info in gdoc report
