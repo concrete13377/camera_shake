@@ -67,7 +67,7 @@ if __name__ == "__main__":
     video = cv2.VideoCapture(str(args.input_video))
     frame_count = 0
     idx = 0
-    frame_rate = 30.0
+    frame_rate = 25.0
 
     h, w = None, None
     video_writer = None
